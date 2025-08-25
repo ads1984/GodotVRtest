@@ -9,12 +9,16 @@ signal generated(generated_seed: int)
 @export var room_size: Vector3 = Vector3(4.0, 3.0, 4.0)
 @export var room_spacing: float = 6.0
 @export var auto_light: bool = true
+@onready var _camera: Camera3D = $Camera3D
 
 var _rng: SeededRNG
 var _rooms: Array[Vector2i] = []
 
 func _ready() -> void:
+		# Procedural generation
 	_generate_internal(rng_seed)
+	# Make sure our camera becomes the active camera
+	_camera.current = true
 
 func regenerate(new_seed: int = -1) -> void:
 	_generate_internal(new_seed if new_seed >= 0 else rng_seed)

@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=3 uid="uid://c5u3l5ldjci4m"]
+
+[ext_resource type="Script" uid="uid://db1atove8t84k" path="res://addons/godot-xr-tools/staging/scene_base.gd" id="1_fw74d"]
+[ext_resource type="PackedScene" uid="uid://djvbvbn0jms58" path="res://scripts/procgen/proc_world.tscn" id="2_xoxv5"]
+[ext_resource type="Script" uid="uid://b68qf21bh8yt0" path="res://assets/NonVRplayer/desktop_player.gd" id="3_6w55x"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_nfjl8"]
+radius = 0.4
+height = 1.8
+
+[node name="ProcWorldScene" type="Node3D"]
+script = ExtResource("1_fw74d")
+metadata/_custom_type_script = "uid://db1atove8t84k"
+
+[node name="XROrigin3D" type="XROrigin3D" parent="."]
+
+[node name="XRCamera3D" type="XRCamera3D" parent="XROrigin3D"]
+
+[node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.09176, 0)
+script = ExtResource("3_6w55x")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.84087, 0)
+shape = SubResource("CapsuleShape3D_nfjl8")
+
+[node name="Camera3D" type="Camera3D" parent="CharacterBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.54041, 0)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+
+[node name="ProcWorld" parent="." instance=ExtResource("2_xoxv5")]

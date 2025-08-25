@@ -6,6 +6,7 @@
 script = ExtResource("1_kxj5i")
 rng_seed = 44
 
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.636065, 0.771636, 0, -0.771636, 0.636065, 0, 3.61245, 0)
+
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(0.51402, 0, -0.857778, 0, 1, 0, 0.857778, 0, 0.51402, 1.0549, 4.58989, -0.864651)
-fov = 37.7919

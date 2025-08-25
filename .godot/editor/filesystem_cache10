@@ -1,6 +1,6 @@
 fc8a56933c4b1c8d796fdb8f7a9f9475
-::res://::1756125739
-default_env.tres::Environment::317910515941949835::1756116483::0::1::::<><><>0<>0<><>::
+::res://::1756139681
+default_env.tres::Environment::317910515941949835::1756138895::0::1::::<><><>0<>0<><>::
 export_presets.cfg::TextFile/TextFile::-1::1756103168::0::1::::<><><>0<>0<><>::
 icon.png::CompressedTexture2D/CompressedTexture2D::1703813226326064325::1756103168::1756103189::1::::<><><>0<>0<>8d747e9017d2b3e6c202cd625aac302a<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
 openxr_action_map.tres::OpenXRActionMap/OpenXRActionMap::8474206278216627192::1756110510::0::1::::<><><>0<>0<><>::
@@ -90,7 +90,7 @@ hand_physics_bone.gd::GDScript/GDScript::6411431556015832743::1756103168::0::1::
 License.md::TextFile/TextFile::-1::1756103168::0::1::::<><><>0<>0<><>::
 physics_hand.gd::GDScript/GDScript::8014977238277246077::1756103168::0::1::::XRToolsPhysicsHand<>XRToolsHand<><>0<>1<><>::
 ::res://addons/godot-xr-tools/hands/animations/::1756103168
-::res://addons/godot-xr-tools/hands/animations/left/::1756106344
+::res://addons/godot-xr-tools/hands/animations/left/::1756134973
 AnimationPlayer.tscn::PackedScene/PackedScene::1348338211824726535::1756103213::0::1::::<><><>0<>0<><>::uid://dgfeikrugfewi::::res://addons/godot-xr-tools/hands/animations/left/Cup.res<>uid://dlxa6f6hwurka::::res://addons/godot-xr-tools/hands/animations/left/Default pose.res<>uid://dqa0h82y3qn1t::::res://addons/godot-xr-tools/hands/animations/left/Grip 1.res<>uid://di384xtde8ydf::::res://addons/godot-xr-tools/hands/animations/left/Grip 2.res<>uid://dd67rufxwj2u::::res://addons/godot-xr-tools/hands/animations/left/Grip 3.res<>uid://db62hs5s4n2b3::::res://addons/godot-xr-tools/hands/animations/left/Grip 4.res<>uid://bediglpx0rj7i::::res://addons/godot-xr-tools/hands/animations/left/Grip 5.res<>uid://nq3xh1olqipq::::res://addons/godot-xr-tools/hands/animations/left/Grip Shaft.res<>uid://plad1r85f7ws::::res://addons/godot-xr-tools/hands/animations/left/Grip.res<>uid://bi1l6lre2w2lp::::res://addons/godot-xr-tools/hands/animations/left/Hold.res<>uid://c3e6h0rv2uw2d::::res://addons/godot-xr-tools/hands/animations/left/Horns.res<>uid://dfekure1r6q13::::res://addons/godot-xr-tools/hands/animations/left/Metal.res<>uid://b0rhk4r0r0t32::::res://addons/godot-xr-tools/hands/animations/left/Middle.res<>uid://f5k0gh4qnmv5::::res://addons/godot-xr-tools/hands/animations/left/OK.res<>uid://1nlkfvitq7ku::::res://addons/godot-xr-tools/hands/animations/left/Peace.res<>uid://dhjb0e334tfwl::::res://addons/godot-xr-tools/hands/animations/left/Pinch Flat.res<>uid://dkjsnihi81b7p::::res://addons/godot-xr-tools/hands/animations/left/Pinch Large.res<>uid://bn0fdhe2jwq3h::::res://addons/godot-xr-tools/hands/animations/left/Pinch Middle.res<>uid://bo1b8w0s4ci81::::res://addons/godot-xr-tools/hands/animations/left/Pinch Ring.res<>uid://m5x2m8x3tcel::::res://addons/godot-xr-tools/hands/animations/left/Pinch Tight.res<>uid://fi23m6i7orhw::::res://addons/godot-xr-tools/hands/animations/left/Pinch Up.res<>uid://c8qmcuyaltdnw::::res://addons/godot-xr-tools/hands/animations/left/PingPong.res<>uid://bqnoubqq7ogwu::::res://addons/godot-xr-tools/hands/animations/left/Pinky.res<>uid://ddbo6ioa282en::::res://addons/godot-xr-tools/hands/animations/left/Pistol.res<>uid://brkptjihht3ae::::res://addons/godot-xr-tools/hands/animations/left/Ring.res<>uid://cnng6xumhw7cx::::res://addons/godot-xr-tools/hands/animations/left/Rounded.res<>uid://cevirj0eagdrq::::res://addons/godot-xr-tools/hands/animations/left/Sign 1.res<>uid://cc6phxovf1ban::::res://addons/godot-xr-tools/hands/animations/left/Sign 2.res<>uid://ohthjp8qbcc4::::res://addons/godot-xr-tools/hands/animations/left/Sign 3.res<>uid://dmx42g64577g5::::res://addons/godot-xr-tools/hands/animations/left/Sign 4.res<>uid://dhsoxntrktx0p::::res://addons/godot-xr-tools/hands/animations/left/Sign 5.res<>uid://c0u2a3yc2vhg8::::res://addons/godot-xr-tools/hands/animations/left/Sign_Point.res<>uid://4g211my0hoiw::::res://addons/godot-xr-tools/hands/animations/left/Straight.res<>uid://d06l7hygl4qt3::::res://addons/godot-xr-tools/hands/animations/left/Surfer.res<>uid://bxei4oebd4hu3::::res://addons/godot-xr-tools/hands/animations/left/Thumb.res
 Cup.res::Animation/Animation::7590974708412206284::1756103168::0::1::::<><><>0<>0<><>::
 Default pose.res::Animation/Animation::7978875689906027064::1756103168::0::1::::<><><>0<>0<><>::
@@ -101,7 +101,7 @@ Grip 4.res::Animation/Animation::7295099457076786082::1756103168::0::1::::<><><>
 Grip 5.res::Animation/Animation::2673866244220991652::1756103168::0::1::::<><><>0<>0<><>::
 Grip Shaft.res::Animation/Animation::947226568896451102::1756103168::0::1::::<><><>0<>0<><>::
 Grip.res::Animation/Animation::1075547560655330150::1756103168::0::1::::<><><>0<>0<><>::
-hand_blend_tree.tres::AnimationNodeBlendTree/AnimationNodeBlendTree::8000931627586676636::1756106344::0::1::::<><><>0<>0<><>::
+hand_blend_tree.tres::AnimationNodeBlendTree::8000931627586676636::1756134973::0::1::::<><><>0<>0<><>::
 Hold.res::Animation/Animation::3002329105171642897::1756103168::0::1::::<><><>0<>0<><>::
 Horns.res::Animation/Animation::6748282567936908705::1756103168::0::1::::<><><>0<>0<><>::
 Metal.res::Animation/Animation::7519107566372913432::1756103168::0::1::::<><><>0<>0<><>::
@@ -128,7 +128,7 @@ Sign_Point.res::Animation/Animation::6570490880079797409::1756103168::0::1::::<>
 Straight.res::Animation/Animation::2049549906742426534::1756103168::0::1::::<><><>0<>0<><>::
 Surfer.res::Animation/Animation::8978704289758581818::1756103168::0::1::::<><><>0<>0<><>::
 Thumb.res::Animation/Animation::4009559863906171416::1756103168::0::1::::<><><>0<>0<><>::
-::res://addons/godot-xr-tools/hands/animations/right/::1756106344
+::res://addons/godot-xr-tools/hands/animations/right/::1756134973
 AnimationPlayer.tscn::PackedScene/PackedScene::4018207629101171331::1756103213::0::1::::<><><>0<>0<><>::uid://do01jton6rk42::::res://addons/godot-xr-tools/hands/animations/right/Cup.res<>uid://ky28birj4su6::::res://addons/godot-xr-tools/hands/animations/right/Default pose.res<>uid://daqddcrbpam0c::::res://addons/godot-xr-tools/hands/animations/right/Grip 1.res<>uid://r8hleealhrqt::::res://addons/godot-xr-tools/hands/animations/right/Grip 2.res<>uid://rs7vpclot07o::::res://addons/godot-xr-tools/hands/animations/right/Grip 3.res<>uid://d1xnpyc08njjx::::res://addons/godot-xr-tools/hands/animations/right/Grip 4.res<>uid://s1vqcxyqcvea::::res://addons/godot-xr-tools/hands/animations/right/Grip 5.res<>uid://c8dghcftg1thx::::res://addons/godot-xr-tools/hands/animations/right/Grip Shaft.res<>uid://ccds2u22gbxn7::::res://addons/godot-xr-tools/hands/animations/right/Grip.res<>uid://bv5tuc1kjv0k5::::res://addons/godot-xr-tools/hands/animations/right/Hold.res<>uid://cdjfhqnr4n2mr::::res://addons/godot-xr-tools/hands/animations/right/Horns.res<>uid://b1kqsodcr1til::::res://addons/godot-xr-tools/hands/animations/right/Metal.res<>uid://cg6fsqb2iuuih::::res://addons/godot-xr-tools/hands/animations/right/Middle.res<>uid://c3isimdlxg54a::::res://addons/godot-xr-tools/hands/animations/right/OK.res<>uid://bxmc3vlfih764::::res://addons/godot-xr-tools/hands/animations/right/Peace.res<>uid://dg4v7rqiaje2h::::res://addons/godot-xr-tools/hands/animations/right/Pinch Flat.res<>uid://cuwwpxi44vwpm::::res://addons/godot-xr-tools/hands/animations/right/Pinch Large.res<>uid://c6vghurk7t5yb::::res://addons/godot-xr-tools/hands/animations/right/Pinch Middle.res<>uid://mjotm5uukoo3::::res://addons/godot-xr-tools/hands/animations/right/Pinch Ring.res<>uid://ca21ej1p3g2yt::::res://addons/godot-xr-tools/hands/animations/right/Pinch Tight.res<>uid://cseojxi8rrqc::::res://addons/godot-xr-tools/hands/animations/right/Pinch Up.res<>uid://c8hn123uon74u::::res://addons/godot-xr-tools/hands/animations/right/PingPong.res<>uid://b6ra3rqia1gvb::::res://addons/godot-xr-tools/hands/animations/right/Pinky.res<>uid://csp3fdknowmi5::::res://addons/godot-xr-tools/hands/animations/right/Pistol.res<>uid://2ttepgvf634h::::res://addons/godot-xr-tools/hands/animations/right/Ring.res<>uid://wcwa3p1qrhwr::::res://addons/godot-xr-tools/hands/animations/right/Rounded.res<>uid://bcwx6a6mhsoj2::::res://addons/godot-xr-tools/hands/animations/right/Sign 1.res<>uid://btnsp36fjkldf::::res://addons/godot-xr-tools/hands/animations/right/Sign 2.res<>uid://c35i6glt1ov2m::::res://addons/godot-xr-tools/hands/animations/right/Sign 3.res<>uid://b8mmk2ufmlyf::::res://addons/godot-xr-tools/hands/animations/right/Sign 4.res<>uid://ddgl3lsnlfiny::::res://addons/godot-xr-tools/hands/animations/right/Sign 5.res<>uid://ccy3e7a0hvxyl::::res://addons/godot-xr-tools/hands/animations/right/Sign_Point.res<>uid://d3h36bkauutoq::::res://addons/godot-xr-tools/hands/animations/right/Straight.res<>uid://bq7cjxdn28jcv::::res://addons/godot-xr-tools/hands/animations/right/Surfer.res<>uid://d2ukhr3n2r1u8::::res://addons/godot-xr-tools/hands/animations/right/Thumb.res
 Cup.res::Animation/Animation::8195111040024005301::1756103168::0::1::::<><><>0<>0<><>::
 Default pose.res::Animation/Animation::753131858148690599::1756103168::0::1::::<><><>0<>0<><>::
@@ -139,7 +139,7 @@ Grip 4.res::Animation/Animation::9032470046656576133::1756103168::0::1::::<><><>
 Grip 5.res::Animation/Animation::1318376778329847596::1756103168::0::1::::<><><>0<>0<><>::
 Grip Shaft.res::Animation/Animation::7095643256860440737::1756103168::0::1::::<><><>0<>0<><>::
 Grip.res::Animation/Animation::4920554403641237694::1756103168::0::1::::<><><>0<>0<><>::
-hand_blend_tree.tres::AnimationNodeBlendTree/AnimationNodeBlendTree::912215260637445682::1756106344::0::1::::<><><>0<>0<><>::
+hand_blend_tree.tres::AnimationNodeBlendTree::912215260637445682::1756134973::0::1::::<><><>0<>0<><>::
 Hold.res::Animation/Animation::3923507217133086158::1756103168::0::1::::<><><>0<>0<><>::
 Horns.res::Animation/Animation::5002304244875762093::1756103168::0::1::::<><><>0<>0<><>::
 Metal.res::Animation/Animation::4232978752073040327::1756103168::0::1::::<><><>0<>0<><>::
@@ -267,17 +267,17 @@ interactable_joystick.gd::GDScript/GDScript::2492849710198266674::1756103168::0:
 interactable_joystick.tscn::PackedScene/PackedScene::6160437614496036494::1756103216::0::1::::<><><>0<>0<><>::uid://bbrs4uk2j600u::::res://addons/godot-xr-tools/interactables/interactable_joystick.gd
 interactable_slider.gd::GDScript/GDScript::6990281215390687419::1756103168::0::1::::XRToolsInteractableSlider<>XRToolsInteractableHandleDriven<><>0<>1<><>::
 interactable_slider.tscn::PackedScene/PackedScene::4178125742470015024::1756103216::0::1::::<><><>0<>0<><>::uid://c6ue57lns8hih::::res://addons/godot-xr-tools/interactables/interactable_slider.gd
-::res://addons/godot-xr-tools/materials/::1756110678
+::res://addons/godot-xr-tools/materials/::1756134190
 capsule.tres::StandardMaterial3D/StandardMaterial3D::-1::1756103168::0::1::::<><><>0<>0<><>::
-highlight.tres::ShaderMaterial::261327140198664712::1756110678::0::1::::<><><>0<>0<><>::
+highlight.tres::ShaderMaterial::261327140198664712::1756134190::0::1::::<><><>0<>0<><>::
 pointer.tres::StandardMaterial3D/StandardMaterial3D::-1::1756103168::0::1::::<><><>0<>0<><>::
 target.tres::StandardMaterial3D/StandardMaterial3D::-1::1756103168::0::1::::<><><>0<>0<><>::res://addons/godot-xr-tools/images/teleport_target.png
 teleport.gdshader::Shader/Shader::2077301912457042089::1756103168::0::1::::<><><>0<>0<><>::
 teleport.tres::ShaderMaterial/ShaderMaterial::3156048152343437539::1756103168::0::1::::<><><>0<>0<><>::res://addons/godot-xr-tools/materials/teleport.gdshader<>uid://ddoj6c345cb0c::::res://addons/godot-xr-tools/images/teleport_arrow.png
-::res://addons/godot-xr-tools/misc/::1756110678
+::res://addons/godot-xr-tools/misc/::1756134190
 hold_button.gd::GDScript/GDScript::8266539529587338481::1756103168::0::1::::XRToolsHoldButton<>Node3D<><>0<>1<><>::
 hold_button.tscn::PackedScene/PackedScene::6483308179465793173::1756103216::0::1::::<><><>0<>0<><>::uid://dp1mx0h21cscv::::res://addons/godot-xr-tools/misc/hold_button.gd<>uid://c6okm2ay0fkjf::::res://addons/godot-xr-tools/misc/hold_button_visualshader.tres
-hold_button_visualshader.tres::VisualShader::6978226827431087127::1756110678::0::1::::<><><>0<>0<><>::
+hold_button_visualshader.tres::VisualShader::6978226827431087127::1756134189::0::1::::<><><>0<>0<><>::
 move_to.gd::GDScript/GDScript::6874785425585420395::1756103168::0::1::::XRToolsMoveTo<>Node<><>0<>0<><>::
 velocity_averager.gd::GDScript/GDScript::6098412296454993154::1756103168::0::1::::XRToolsVelocityAverager<>RefCounted<><>0<>0<><>::
 velocity_averager_linear.gd::GDScript/GDScript::2135680993140005489::1756103168::0::1::::XRToolsVelocityAveragerLinear<>RefCounted<><>0<>0<><>::
@@ -335,24 +335,24 @@ player_body.tscn::PackedScene/PackedScene::7771578483331639637::1756103216::0::1
 poke.gd::GDScript/GDScript::1446821173517852082::1756103168::0::1::::XRToolsPoke<>Node3D<><>0<>1<><>::
 poke.tscn::PackedScene/PackedScene::3023656018114741839::1756103216::0::1::::<><><>0<>0<><>::uid://uu36y7gas2dq::::res://addons/godot-xr-tools/player/poke/poke.gd<>uid://c3l7mdbopu6oa::::res://addons/godot-xr-tools/player/poke/poke_body.gd
 poke_body.gd::GDScript/GDScript::6762801677612970216::1756103168::0::1::::<>XRToolsForceBody<><>0<>1<><>::
-::res://addons/godot-xr-tools/staging/::1756116423
+::res://addons/godot-xr-tools/staging/::1756138895
 fade.gdshader::Shader/Shader::2000588116970834505::1756103168::0::1::::<><><>0<>0<><>::
-loading_screen.gd::GDScript::2021222609556486542::1756112000::0::1::::<>Node3D<><>0<>1<><>::
-loading_screen.tscn::PackedScene::3551494409957125895::1756116422::0::1::::<><><>0<>0<><>::uid://32digxhkkryk::::res://addons/godot-xr-tools/staging/loading_screen.gd<>uid://4i0pwdtfmtsv::::res://addons/godot-xr-tools/staging/loading_screen/loading_screen_shader.tres<>uid://clbtsf0ahb3fm::::res://addons/godot-xr-tools/assets/misc/progress_bar.png<>uid://ocyj01x5mtt7::::res://addons/godot-xr-tools/assets/misc/Hold trigger to continue.png<>uid://cymteydkxagpp::::res://addons/godot-xr-tools/misc/hold_button.tscn
+loading_screen.gd::GDScript/GDScript::2021222609556486542::1756112000::0::1::::<>Node3D<><>0<>1<><>::
+loading_screen.tscn::PackedScene::3551494409957125895::1756138895::0::1::::<><><>0<>0<><>::uid://32digxhkkryk::::res://addons/godot-xr-tools/staging/loading_screen.gd<>uid://bkvj83shnbfwl::::res://assets/splash/splash.png<>uid://4i0pwdtfmtsv::::res://addons/godot-xr-tools/staging/loading_screen/loading_screen_shader.tres<>uid://clbtsf0ahb3fm::::res://addons/godot-xr-tools/assets/misc/progress_bar.png<>uid://ocyj01x5mtt7::::res://addons/godot-xr-tools/assets/misc/Hold trigger to continue.png<>uid://cymteydkxagpp::::res://addons/godot-xr-tools/misc/hold_button.tscn
 loading_screen_shader.tres::VisualShader/VisualShader::-1::1756103168::0::1::::<><><>0<>0<><>::
 scene_base.gd::GDScript/GDScript::7283159414401504208::1756103168::0::1::::XRToolsSceneBase<>Node3D<><>0<>1<><>::
-scene_base.tscn::PackedScene::1125856909848102548::1756116423::0::1::::<><><>0<>0<><>::uid://db1atove8t84k::::res://addons/godot-xr-tools/staging/scene_base.gd
+scene_base.tscn::PackedScene::1125856909848102548::1756138895::0::1::::<><><>0<>0<><>::uid://db1atove8t84k::::res://addons/godot-xr-tools/staging/scene_base.gd
 staging.gd::GDScript/GDScript::6080342234078430806::1756103168::0::1::::XRToolsStaging<>Node3D<><>0<>1<><>::
-staging.tscn::PackedScene::3332718921164146735::1756116422::0::1::::<><><>0<>0<><>::uid://csvml3tp4wbfi::::res://addons/godot-xr-tools/staging/staging.gd<>uid://bqumugyvkct4r::::res://addons/godot-xr-tools/staging/loading_screen.tscn<>uid://ckiwtcdsam7ed::::res://addons/godot-xr-tools/staging/staging_env.tres<>uid://3rdnnpwjp43v::::res://addons/godot-xr-tools/staging/fade.gdshader<>uid://cx8ubirkd6ehn::::res://addons/godot-xr-tools/misc/vr_common_shader_cache.tscn<>uid://clc5dre31iskm::::res://addons/godot-xr-tools/xr/start_xr.tscn
+staging.tscn::PackedScene::3332718921164146735::1756138895::0::1::::<><><>0<>0<><>::uid://csvml3tp4wbfi::::res://addons/godot-xr-tools/staging/staging.gd<>uid://bqumugyvkct4r::::res://addons/godot-xr-tools/staging/loading_screen.tscn<>uid://ckiwtcdsam7ed::::res://addons/godot-xr-tools/staging/staging_env.tres<>uid://3rdnnpwjp43v::::res://addons/godot-xr-tools/staging/fade.gdshader<>uid://cx8ubirkd6ehn::::res://addons/godot-xr-tools/misc/vr_common_shader_cache.tscn<>uid://clc5dre31iskm::::res://addons/godot-xr-tools/xr/start_xr.tscn
 staging_env.tres::Environment/Environment::5492614640223519339::1756103168::0::1::::<><><>0<>0<><>::
-::res://addons/godot-xr-tools/staging/loading_screen/::1756116487
-loading_screen_shader.tres::VisualShader::2053537360281717781::1756116487::0::1::::<><><>0<>0<><>::
-::res://addons/godot-xr-tools/user_settings/::1756116422
-user_settings.gd::GDScript::1353863750609919956::1756112157::0::1::::<>Node<><>0<>0<><>::
-user_settings_ui.gd::GDScript::4407474067377759904::1756112157::0::1::::<>TabContainer<><>0<>0<><>::
-user_settings_ui.tscn::PackedScene::1724889644455503399::1756116422::0::1::::<><><>0<>0<><>::uid://b32apo1bkyfam::::res://addons/godot-xr-tools/user_settings/user_settings_ui.gd
+::res://addons/godot-xr-tools/staging/loading_screen/::1756138898
+loading_screen_shader.tres::VisualShader::2053537360281717781::1756138898::0::1::::<><><>0<>0<><>::
+::res://addons/godot-xr-tools/user_settings/::1756138895
+user_settings.gd::GDScript/GDScript::1353863750609919956::1756112157::0::1::::<>Node<><>0<>0<><>::
+user_settings_ui.gd::GDScript/GDScript::4407474067377759904::1756112157::0::1::::<>TabContainer<><>0<>0<><>::
+user_settings_ui.tscn::PackedScene::1724889644455503399::1756138895::0::1::::<><><>0<>0<><>::uid://b32apo1bkyfam::::res://addons/godot-xr-tools/user_settings/user_settings_ui.gd
 ::res://addons/godot-xr-tools/xr/::1756115681
-start_xr.gd::GDScript::1884258831505886109::1756115681::0::1::::XRToolsStartXR<>Node<><>0<>1<><>::
+start_xr.gd::GDScript/GDScript::1884258831505886109::1756115681::0::1::::XRToolsStartXR<>Node<><>0<>1<><>::
 start_xr.tscn::PackedScene/PackedScene::5550875170460828808::1756103217::0::1::::<><><>0<>0<><>::uid://130p5u7s13yn::::res://addons/godot-xr-tools/xr/start_xr.gd
 ::res://android/::1756103168
 ::res://android/plugins/::1756103168
@@ -363,7 +363,10 @@ GodotOpenXRLoaders_CHANGES.md::TextFile/TextFile::-1::1756103168::0::1::::<><><>
 LICENSE.txt::TextFile/TextFile::-1::1756103168::0::1::::<><><>0<>0<><>::
 ::res://android/plugins/godotopenxrpico/::1756103168
 LICENSE.md::TextFile/TextFile::-1::1756103168::0::1::::<><><>0<>0<><>::
-::res://assets/::1756103168
+::res://assets/::1756135198
+::res://assets/NonVRplayer/::1756138895
+desktop_player.gd::GDScript::4631381161561349399::1756136209::0::1::::<>CharacterBody3D<><>0<>0<><>::
+nonVRplayer.tscn::PackedScene::1407454565691701769::1756138895::0::1::::<><><>0<>0<><>::
 ::res://assets/prototype_materials/::1756103189
 dark_brown.tres::StandardMaterial3D/StandardMaterial3D::5454768909772337894::1756103168::0::1::::<><><>0<>0<><>::uid://b28f4me1ublg4::::res://assets/prototype_materials/pattern.png
 dry_grass.tres::StandardMaterial3D/StandardMaterial3D::5934933522692364614::1756103168::0::1::::<><><>0<>0<><>::uid://b28f4me1ublg4::::res://assets/prototype_materials/pattern.png
@@ -382,7 +385,7 @@ zone_save_point.gd::GDScript/GDScript::7193449128759520794::1756103168::0::1::::
 zone_save_point.tscn::PackedScene/PackedScene::8057561878583801134::1756103217::0::1::::<><><>0<>0<><>::uid://daqtb565eya2e::::res://components/helpers/zone_save_point.gd<>uid://b28f4me1ublg4::::res://assets/prototype_materials/pattern.png<>uid://c386ygo86nqfc::::res://assets/prototype_materials/wood_brown.tres<>uid://cme66uldrjl2i::::res://addons/godot-xr-tools/interactables/interactable_area_button.tscn
 zone_switch_area.gd::GDScript/GDScript::4304307639156096933::1756103168::0::1::::<>Area3D<><>0<>1<><>::
 zone_switch_area.tscn::PackedScene/PackedScene::1500548752372106820::1756103217::0::1::::<><><>0<>0<><>::uid://b2lbk2sxuy1kj::::res://components/helpers/zone_switch_area.gd
-::res://components/persistent/::1756116423
+::res://components/persistent/::1756138895
 persistent.gd::GDScript/GDScript::2932315874968823674::1756103168::0::1::::Persistent<>RefCounted<><>0<>0<><>::
 persistent_item.gd::GDScript/GDScript::2505014762001472349::1756103168::0::1::::PersistentItem<>XRToolsPickable<><>0<>1<><>::
 persistent_item.tscn::PackedScene/PackedScene::4968975549129478895::1756103217::0::1::::<><><>0<>0<><>::uid://c8l60rnugru40::::res://addons/godot-xr-tools/objects/pickable.tscn<>uid://bbxphytvjg8q0::::res://components/persistent/persistent_item.gd
@@ -394,15 +397,15 @@ persistent_staging.gd::GDScript/GDScript::6067034434139559587::1756103168::0::1:
 persistent_staging.tscn::PackedScene/PackedScene::6710909947456868395::1756103217::0::1::::<><><>0<>0<><>::uid://bnqnnnet4dw12::::res://addons/godot-xr-tools/staging/staging.tscn<>uid://cso6f2mgtn20n::::res://components/persistent/persistent_staging.gd
 persistent_world.gd::GDScript/GDScript::6363724423024441329::1756103168::0::1::::PersistentWorld<>Node<><>0<>0<><>::
 persistent_zone.gd::GDScript/GDScript::5097519153733994044::1756103168::0::1::::PersistentZone<>XRToolsSceneBase<><>0<>1<><>::
-persistent_zone.tscn::PackedScene::7774544397191503667::1756116423::0::1::::<><><>0<>0<><>::uid://qbmx03iibuuu::::res://addons/godot-xr-tools/staging/scene_base.tscn<>uid://cevjnpo2amc1a::::res://components/persistent/persistent_zone.gd
+persistent_zone.tscn::PackedScene::7774544397191503667::1756138895::0::1::::<><><>0<>0<><>::uid://qbmx03iibuuu::::res://addons/godot-xr-tools/staging/scene_base.tscn<>uid://cevjnpo2amc1a::::res://components/persistent/persistent_zone.gd
 persistent_zone_database.gd::GDScript/GDScript::1855803905023923780::1756103168::0::1::::PersistentZoneDatabase<>Resource<><>0<>0<><>::
 persistent_zone_info.gd::GDScript/GDScript::4573045436538206769::1756103168::0::1::::PersistentZoneInfo<>Resource<><>0<>0<><>::
-::res://game/::1756116423
+::res://game/::1756138895
 game_config.tres::Resource/Resource::4106759389924142582::1756103218::0::1::::<><><>0<>0<><>::
-game_state.gd::GDScript::5207919273923022892::1756116146::0::1::::<>PersistentWorld<><>0<>0<><>::
-game_state.tscn::PackedScene::3364113400965187009::1756116423::0::1::::<><><>0<>0<><>::uid://cgg0w1agotxeq::::res://game/game_state.gd<>uid://to5lown6orfd::::res://game/zones/outside/outside_zone_info.tres<>uid://cx1d62bw62y0k::::res://game/zones/zone_database.tres<>uid://5sqmlq5ruolr::::res://game/items/item_database.tres
-main.gd::GDScript::1933297141290723263::1756115647::0::1::::GameStaging<>PersistentStaging<><>0<>1<><>::
-main.tscn::PackedScene::7135936384077650977::1756116422::0::1::::<><><>0<>0<><>::uid://c2u2yasyfotxr::::res://components/persistent/persistent_staging.tscn<>uid://bkvj83shnbfwl::::res://assets/splash/splash.png<>uid://2sreen21tpfb::::res://game/main.gd
+game_state.gd::GDScript::5207919273923022892::1756137954::0::1::::<>PersistentWorld<><>0<>0<><>::
+game_state.tscn::PackedScene::3364113400965187009::1756138895::0::1::::<><><>0<>0<><>::uid://cgg0w1agotxeq::::res://game/game_state.gd<>uid://to5lown6orfd::::res://game/zones/outside/outside_zone_info.tres<>uid://cx1d62bw62y0k::::res://game/zones/zone_database.tres<>uid://5sqmlq5ruolr::::res://game/items/item_database.tres
+main.gd::GDScript::1933297141290723263::1756136347::0::1::::GameStaging<>PersistentStaging<><>0<>1<><>::
+main.tscn::PackedScene::7135936384077650977::1756138895::0::1::::<><><>0<>0<><>::uid://c2u2yasyfotxr::::res://components/persistent/persistent_staging.tscn<>uid://bkvj83shnbfwl::::res://assets/splash/splash.png<>uid://2sreen21tpfb::::res://game/main.gd
 ::res://game/items/::1756103218
 item_database.tres::Resource/PersistentItemDatabase::2143817613985474991::1756103218::0::1::::<><><>0<>0<><>::uid://bybqoawclvbw5::::res://game/items/backpack/backpack_type.tres<>uid://dlhghx5hflgoa::::res://components/persistent/persistent_item_database.gd<>uid://c5gb3le1hvypy::::res://components/persistent/persistent_item_type.gd<>uid://dag4mhfys4x5d::::res://game/items/crate/crate_type.tres<>uid://bjewm2x0kyx28::::res://game/items/rock/rock_type.tres<>uid://c61hljsd7ejeo::::res://game/items/toolbox/toolbox_type.tres
 ::res://game/items/backpack/::1756103217
@@ -423,10 +426,10 @@ toolbox_type.tres::Resource/PersistentItemType::7002814505148946874::1756103217:
 ::res://game/objects/storage/::1756103218
 boxed_storage.tscn::PackedScene/PackedScene::8358167591951739890::1756103218::0::1::::<><><>0<>0<><>::uid://cjylinr1vdjcw::::res://assets/prototype_materials/dark_brown.tres<>uid://b1o2xnr4gi6r4::::res://assets/prototype_materials/sandstone.tres
 storage_box.tscn::PackedScene/PackedScene::5268769778667581135::1756103218::0::1::::<><><>0<>0<><>::uid://drc02f0wuae6e::::res://game/objects/storage/boxed_storage.tscn<>uid://qmejywplaagw::::res://components/persistent/persistent_pocket.tscn<>uid://da2qgxxwwitl6::::res://addons/godot-xr-tools/objects/highlight/highlight_ring.tscn
-::res://game/start_scene/::1756115681
-start_scene.tscn::PackedScene/PackedScene::4623475196579544590::1756107521::0::1::::<><><>0<>0<><>::uid://qbmx03iibuuu::::res://addons/godot-xr-tools/staging/scene_base.tscn<>uid://cqhw276realc::::res://addons/godot-xr-tools/functions/function_pointer.tscn<>uid://b4kad2kuba1yn::::res://addons/godot-xr-tools/hands/scenes/lowpoly/left_hand_low.tscn<>uid://ccdofvku4c7w3::::res://assets/prototype_materials/stone_grey.tres<>uid://clujaf3u776a3::::res://addons/godot-xr-tools/objects/viewport_2d_in_3d.tscn<>uid://l2n30mpbkdyw::::res://addons/godot-xr-tools/hands/scenes/lowpoly/right_hand_low.tscn<>uid://cl8q8f32imusk::::res://game/start_scene/start_ui.tscn
-start_ui.gd::GDScript::6247715965723938499::1756115681::0::1::::<>CenterContainer<><>0<>0<><>::
-start_ui.tscn::PackedScene/PackedScene::5614073823480872830::1756103218::0::1::::<><><>0<>0<><>::uid://cvao77ltx8i1x::::res://game/start_scene/start_ui.gd
+::res://game/start_scene/::1756138895
+start_scene.tscn::PackedScene::4623475196579544590::1756138895::0::1::::<><><>0<>0<><>::uid://qbmx03iibuuu::::res://addons/godot-xr-tools/staging/scene_base.tscn<>uid://cqhw276realc::::res://addons/godot-xr-tools/functions/function_pointer.tscn<>uid://b4kad2kuba1yn::::res://addons/godot-xr-tools/hands/scenes/lowpoly/left_hand_low.tscn<>uid://ccdofvku4c7w3::::res://assets/prototype_materials/stone_grey.tres<>uid://clujaf3u776a3::::res://addons/godot-xr-tools/objects/viewport_2d_in_3d.tscn<>uid://l2n30mpbkdyw::::res://addons/godot-xr-tools/hands/scenes/lowpoly/right_hand_low.tscn<>uid://cl8q8f32imusk::::res://game/start_scene/start_ui.tscn
+start_ui.gd::GDScript::6247715965723938499::1756136209::0::1::::<>CenterContainer<><>0<>0<><>::
+start_ui.tscn::PackedScene::5614073823480872830::1756138895::0::1::::<><><>0<>0<><>::uid://cvao77ltx8i1x::::res://game/start_scene/start_ui.gd
 ::res://game/zones/::1756107521
 zone_base.tscn::PackedScene/PackedScene::6275464930273173355::1756107520::0::1::::<><><>0<>0<><>::uid://di1bu0tceg332::::res://components/persistent/persistent_zone.tscn<>uid://bkv43ec6chcf3::::res://addons/godot-xr-tools/hands/scenes/collision/collision_hand_left.tscn<>uid://b4kad2kuba1yn::::res://addons/godot-xr-tools/hands/scenes/lowpoly/left_hand_low.tscn<>uid://bjcxf427un2wp::::res://addons/godot-xr-tools/player/poke/poke.tscn<>uid://cqhw276realc::::res://addons/godot-xr-tools/functions/function_pointer.tscn<>uid://b4ysuy43poobf::::res://addons/godot-xr-tools/functions/function_pickup.tscn<>uid://bl2nuu3qhlb5k::::res://addons/godot-xr-tools/functions/movement_direct.tscn<>uid://c2q5phg8w08o::::res://addons/godot-xr-tools/functions/movement_jump.tscn<>uid://clt88d5d1dje4::::res://addons/godot-xr-tools/functions/movement_crouch.tscn<>uid://clujaf3u776a3::::res://addons/godot-xr-tools/objects/viewport_2d_in_3d.tscn<>uid://c3uoohvnshach::::res://addons/godot-xr-tools/hands/scenes/collision/collision_hand_right.tscn<>uid://l2n30mpbkdyw::::res://addons/godot-xr-tools/hands/scenes/lowpoly/right_hand_low.tscn<>uid://b3bubdytjn523::::res://game/zones/zone_wrist_ui.tscn<>uid://b6bk2pj8vbj28::::res://addons/godot-xr-tools/functions/movement_turn.tscn<>uid://diyu06cw06syv::::res://addons/godot-xr-tools/player/player_body.tscn<>uid://qmejywplaagw::::res://components/persistent/persistent_pocket.tscn<>uid://da2qgxxwwitl6::::res://addons/godot-xr-tools/objects/highlight/highlight_ring.tscn<>uid://drs4eeq721ojn::::res://addons/godot-xr-tools/functions/movement_sprint.tscn
 zone_database.tres::Resource/PersistentZoneDatabase::6441097523973206148::1756103218::0::1::::<><><>0<>0<><>::uid://1o7238a6m76w::::res://components/persistent/persistent_zone_database.gd<>uid://to5lown6orfd::::res://game/zones/outside/outside_zone_info.tres<>uid://b6fhnjc18mtfl::::res://components/persistent/persistent_zone_info.gd<>uid://d1lgdwh7pv220::::res://game/zones/house_interior/house_interior_zone_info.tres<>uid://cpugbtukttkfj::::res://game/zones/house_back_yard/house_back_yard_zone_info.tres
@@ -443,8 +446,9 @@ outside_zone.tscn::PackedScene/PackedScene::5405749255779180350::1756107521::0::
 outside_zone_info.tres::Resource/PersistentZoneInfo::1364331241140656113::1756103218::0::1::::<><><>0<>0<><>::uid://b6fhnjc18mtfl::::res://components/persistent/persistent_zone_info.gd
 ::res://img/::1756103168
 ::res://scripts/::1756103930
-::res://scripts/procgen/::1756116483
-ProcLevel.gd::GDScript::6913312369997157035::1756112846::0::1::::ProcLevel<>Node3D<><>0<>0<><>::
-proc_world.tscn::PackedScene::7834411869075832885::1756116483::0::1::::<><><>0<>0<><>::uid://c5q4ik4fcwof0::::res://scripts/procgen/ProcLevel.gd
+::res://scripts/procgen/::1756138895
+ProcLevel.gd::GDScript::6913312369997157035::1756137676::0::1::::ProcLevel<>Node3D<><>0<>0<><>::
+proc_world.tscn::PackedScene::7834411869075832885::1756138895::0::1::::<><><>0<>0<><>::uid://c5q4ik4fcwof0::::res://scripts/procgen/ProcLevel.gd
+proc_world_scene.tscn::PackedScene::6921515543980559046::1756138895::0::1::::<><><>0<>0<><>::uid://db1atove8t84k::::res://addons/godot-xr-tools/staging/scene_base.gd<>uid://djvbvbn0jms58::::res://scripts/procgen/proc_world.tscn
 RoomGrammar.gd::GDScript/GDScript::2463374226248847767::1756106062::0::1::::RoomGrammar<>Node<><>0<>0<><>::
-SeededRNG.gd::GDScript::5472000574322248681::1756112846::0::1::::SeededRNG<>RefCounted<><>0<>0<><>::
+SeededRNG.gd::GDScript/GDScript::5472000574322248681::1756112846::0::1::::SeededRNG<>RefCounted<><>0<>0<><>::

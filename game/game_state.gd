@@ -32,7 +32,7 @@ enum GameDifficulty {
 @export var use_custom_start_scene: bool = true
 
 ## Scene to load for New Game (e.g. your ProcLevel scene)
-@export var start_scene: PackedScene
+@export var start_scene: PackedScene = preload("res://scripts/procgen/proc_world_scene.tscn")
 
 ## Optional starting transform for the scene (leave empty to use its default)
 @export var start_location: Transform3D

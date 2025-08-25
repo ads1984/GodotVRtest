@@ -15,14 +15,21 @@ func _ready() -> void:
 	xr_started.connect(_on_xr_started)
 	xr_ended.connect(_on_xr_ended)
 
-func _on_scene_loaded(scene:Node, _user_data:Variant) -> void:
+# In game/main.gd
+func _on_scene_loaded(scene: Node, _user_data: Variant) -> void:
 	prompt_for_continue = false
-	get_tree().paused = false                  # <- ensure not paused
+	get_tree().paused = false
+	# Always set up UI actions so keyboard and controller navigation works in VR too
+	_ensure_ui_actions()
 	if not _is_vr_active():
-		_ensure_ui_actions()                   # ui_accept/ui_up/down etc.
+		# Desktop‑only settings
 		Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
 		get_viewport().gui_disable_input = false
-		_ensure_desktop_view(scene)            # optional fallback camera/light
+		_ensure_desktop_view(scene)
+		# Prepare the UI so buttons get focus and mouse input reaches them
+		_prepare_desktop_ui(scene)
+		# Optional: if you have a fullscreen overlay that still blocks clicks, unblock it
+		_unblock_fullscreen_controls(scene)
 
 
 func _on_xr_started() -> void:

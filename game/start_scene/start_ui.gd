@@ -47,18 +47,7 @@ func _find_first_visible_button(n: Node) -> Button:
 
 # ---------- Desktop fallback: click hovered button ----------
 func _unhandled_input(event: InputEvent) -> void:
-	# Skip if XR session is running (VR will use rays)
-	var xr_running: bool = false
-	var iface = XRServer.primary_interface
-	if iface != null:
-		if iface.has_method("is_running") and iface.is_running():
-			xr_running = true
-		elif iface.has_method("is_session_running") and iface.is_session_running():
-			xr_running = true
-	if xr_running:
-		return
-
-	# Left click -> press the hovered Button
+	# Allow mouse clicking regardless of whether XR is running
 	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
 		var hovered: Control = get_viewport().gui_get_hovered_control()
 		if hovered and hovered is Button and hovered.visible:
